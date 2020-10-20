@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
 import 'bootstrap/dist/css/bootstrap.min.css';    // import here is already enough, since only one file import is enough and we do it at this main js file
 import {BrowserRouter, Switch} from 'react-router-dom';
 import App from './selfmade_components/App';
@@ -28,3 +27,4 @@ ReactDOM.render(
 );
 
 export default store;
+//1st test
